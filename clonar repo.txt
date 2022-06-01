@@ -1,0 +1,14 @@
+1) loguearse desde chrome en el github deseado
+2) loguearse en github desktop
+3) ir al repo que se quiere clonar y copiar el link que se encuentra en "code"
+4) En Github Desktop, ir a "Clone Repository", pegar el link y seleccionar la carpeta local donde se quiere clonar (decargar) el repo.
+5) Para subirlo a GitHub online, seleccionar la rama.
+6) Commit to master.
+7) Push to origin.
+8) Ir a GitHub online, para chequear que se haya subido correctamente.
+
+
+Para codear y que se vayan guardando los cambios en Git, hay que guardar los archivos codeados en una carpeta que sea repositorio local de GitHub. Entonces, cuando haya cambios, GitHub Desktop nos lo va a marcar, ahi ingresamos una descripcion. Luego seleccionamos la rama, commit to master y push to origin.
+Chequear que se haya subido todo correctamente.
+
+Si estamos trabajando con mas personas, antes de hacer un Commit, necesitamos hacer un Fetch para traernos todos los cambios que los otros hayan hecho.
